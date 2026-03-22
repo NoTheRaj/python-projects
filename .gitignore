@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets - NEVER upload these
+swayam-bot/config.py
+swayam-bot/chrome_session/
+swayam-bot/screenshots/
+swayam-bot/swayam_bot.log
+
+swayam-bot/chromedriver.exe
+swayam-bot/*.chromedriver
+swayam-bot/THIRD_PARTY_NOTICES.chromedriver
+swayam-bot/LICENSE.chromedriver
